@@ -4,16 +4,16 @@ revision: '00001'
 annotations:
   5d25868c3e8040389ac4c16995a3a9a7:
     span:
-      start: 117699
-      end: 117699
+      start: 117697
+      end: 117697
   4a1c59db95084ea495b16321b980eb5b:
     span:
-      start: 117732
-      end: 117732
+      start: 117730
+      end: 117730
   09f32b79541d49ab9d370fe82b9ce260:
     span:
-      start: 117829
-      end: 117829
+      start: 117827
+      end: 117827
 local_ids:
   5d25868c3e8040389ac4c16995a3a9a7: 200000
   4a1c59db95084ea495b16321b980eb5b: 200001
